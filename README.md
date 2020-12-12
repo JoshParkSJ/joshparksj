@@ -18,7 +18,7 @@ Android
 Machine Learning
 Google Cloud Platform
 
-## What I want to explore next 🌱:
+### What I want to explore next 🌱:
 
 SQL
 Blockchain
