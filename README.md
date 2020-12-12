@@ -1,4 +1,4 @@
-## Hello world! I'm Joshua👋
+### Hello world! I'm Joshua👋
 
 a 3rd year biomedical engineering student at the University of British Columbia!
 
