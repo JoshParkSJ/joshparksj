@@ -7,7 +7,6 @@ Summer 2021: still looking
 
 Past experiences: [Linkedin](https://linkedin.com/in/joshparksj)
 Contact me: [email](joshuaparksj@gmail.com)
-<!--
 
 ### What I've worked on 😄:
 
