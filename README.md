@@ -9,6 +9,5 @@ What I want to explore: Blockchain & SQL<br />
 Summer 2020: software engineering intern at TELUS<br />
 Summer 2021: still looking<br /><br />
 
-
 Past experiences: [Linkedin](https://linkedin.com/in/joshparksj)<br />
 Contact me: [email](joshuaparksj@gmail.com)
