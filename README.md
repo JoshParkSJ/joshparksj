@@ -8,5 +8,5 @@ Summer 2020: software engineering intern at TELUS<br />
 Summer 2021: software engineering intern at Excelar Technologies<br />
 Summer 2022: looking!<br />
 
-Let's connect: [Linkedin](https://linkedin.com/in/joshparksj)<br />
+Let's connect: [linkedin](https://linkedin.com/in/joshparksj)<br />
 Contact me: [email](joshuaparksj@gmail.com)
