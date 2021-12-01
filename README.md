@@ -6,7 +6,7 @@ I've worked on full-stack web development and mobile development projects throug
 
 Summer 2020: software engineering intern at TELUS<br />
 Summer 2021: software engineering intern at Excelar Technologies<br />
-Summer 2022: looking!<br />
+Summer 2022: software engineering intern at UiPath <br />
 
 Let's connect: [linkedin](https://linkedin.com/in/joshparksj)<br />
 Contact me: [email](joshuaparksj@gmail.com)
