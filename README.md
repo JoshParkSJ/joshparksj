@@ -1,6 +1,6 @@
-# Hello world 👋
+# Hello world! I'm Joshua 👋
 
-I'm a 3rd year biomedical engineering student at the University of British Columbia!<br />
+A 3rd year biomedical engineering student at the University of British Columbia!<br />
 
 I've worked on full-stack web development and mobile development projects through various work experiences, start ups, student teams, projects, and hackathons. 
 
