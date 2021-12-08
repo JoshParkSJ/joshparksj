@@ -8,4 +8,4 @@ Summer 2020: software engineering intern at TELUS<br />
 Summer 2021: software engineering intern at Excelar Technologies<br />
 Summer 2022: software engineering intern at UiPath <br />
 
-[linkedin](https://linkedin.com/in/joshparksj) | [email](joshuaparksj@gmail.com)
+[Linkedin](https://linkedin.com/in/joshparksj) | [Email](joshuaparksj@gmail.com)
