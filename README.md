@@ -1,7 +1,7 @@
-# Hello world! I'm Joshua 👋
+# Hello world! I'm Josh 👋
 
-A 4th year biomedical engineering student at the University of British Columbia!<br />
+My passion is in machine learning, startups/VC, and health tech :)
 
-I've worked on full-stack web development and mobile development projects through various internships, start ups, student teams, projects, and hackathons. 
+Let's Chat! 
 
 [Linkedin](https://linkedin.com/in/joshparksj)
