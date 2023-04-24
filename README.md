@@ -2,6 +2,4 @@
 
 My passion is in machine learning, startups/VC, and health tech :)
 
-Let's Chat! 
-
-[Linkedin](https://linkedin.com/in/joshparksj)
+If you wanna build something or just chat, feel free to message me! [in/joshparksj](https://linkedin.com/in/joshparksj)
